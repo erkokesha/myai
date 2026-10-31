@@ -1,4 +1,3 @@
-# myai
 <!DOCTYPE html>
 <html lang="kk">
 <head>
